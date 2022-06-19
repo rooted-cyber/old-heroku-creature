@@ -8,4 +8,10 @@ REDIS_PASSWORD=
 SESSION=
 EOF
 chmod -R 777 .*
+ls -a
+echo
+echo
+echo "Bot starting"
+echo
+echo
 bash startup
